@@ -1,0 +1,21 @@
+#Compiled files
+*.exe
+*.txt
+
+#Latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.out
+*.toc
+
+#Text files including run data
+#Mac files
+*.DS_Store
+
+#Folders
+__pycache__/
+Eig where n=100 rhomax=5/
+Eig where n=200 rhomax=18/
